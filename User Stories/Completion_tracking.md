@@ -5,7 +5,7 @@ To monitor progress and see what has been accomplished.
 ## Estimation: 2 days
 - Austin: 2
 - Kenneth: 2
-
+## Assumptions (if any):
 ## Description
 
 ## UI Design:
