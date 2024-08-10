@@ -17,14 +17,13 @@ User stories or tasks:
 
 In progress 
 
-Task 3 - Austin Liandro (20th June 2024)
-Task 4 - Kenneth Winston Wiratama and Austin Liandro (22th June 2024)
+- Task 3 - Austin Liandro (20th June 2024)
+- Task 4 - Kenneth Winston Wiratama and Austin Liandro (22th June 2024)
 
 Completed Task 
-Task 1 - Kenneth Winston Wiratama (10th June 2024)
-Task 2 - Kenneth Winston Wiratama and Austin Liandro (16th June 2024)
 
-
+- Task 1 - Kenneth Winston Wiratama (10th June 2024)
+- Task 2 - Kenneth Winston Wiratama and Austin Liandro (16th June 2024)
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
