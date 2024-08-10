@@ -1,29 +1,33 @@
 # Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
+Assumed Velocity: 1.2
+Number of developers: 2
+Total estimated amount of work: 24 days
 
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+User stories or tasks:
 
-* Assumed Velocity FROM iteration-1: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+1. Task Creation. Priority - 10, 2 days
+2. Task Organization. Priority - 10, 4 days
+3. Completion Tracking. Priority 10, 2 days
+4. Due Dates. Priority 12, 2 days
+5. Priority Levels. Priority 14, 2 days
+6. Reminders. Priority 12, 5 days
+7. Notes ad Description. Priority 15, 2 days
+8. Sorting and filtering. Priority 14, 4 days
+9. Offline Access. Priority 14, 5 days
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+In progress
 
-In progress:
-* Task-2 (developer name or initials), date started
-* ...
+Task 8 - Austin Liandro (4th June 2024) 
+Task 9 - Kenneth Winston Wiratama and Austin Liandro (11th June 2024)
 
-Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+Completed Task 
+Task 5 - Kenneth Winston Wiratama and Austin Liandro (25th June 2024) 
+Task 6 - Kenneth Winston Wiratama and Austin Liandro (30th June 2024)
+Task 7 - Kenneth Winston Wiratama and Austin Liandro (2nd July 2024)
 
-### Burn Down for iteration-2 (see chapter 4):
+Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+2 weeks left, 14 days of estimated amount of work
+1 weeks left, 7 days
+0 weeks left, 1 days
+Actual Velocity: 0.79
