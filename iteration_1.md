@@ -1,7 +1,7 @@
 # Actual iteration-1 board, (see chapters 3 and 4), add your start and end dates 
 - Assumed Velocity: 1.2
 - Number of developers: 2
-- Total estimated amount of work: 24
+- Total estimated amount of work: 16
 
 User stories or tasks:
 
