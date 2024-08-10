@@ -5,7 +5,7 @@ a system to manage time and priority effectively so that it can ensure all tasks
 - Austin Liandro: 1 day
 - Kenneth Winston Wiratama: 1 day
 ## Assumptions (if any):
-
+The due date feature in the to-do list app allows users to assign specific deadlines to their tasks, helping them manage their time effectively. Users can set due dates for each task, which are then displayed in the task list along with the task details. This functionality helps users prioritize their work, track deadlines, and maintain a structured schedule, reducing the risk of missing important commitments and enhancing overall task management.
 ## Description:
 
 ## Similar UI Design:
