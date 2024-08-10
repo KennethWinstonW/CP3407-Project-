@@ -13,3 +13,5 @@ https://www.figma.com/design/2MFB5px6hzN7F0E0tyHaDa/UI-layout?node-id=0-1&t=Gk8H
 
 Because we changed the UI design layout, this is the previous UI design that we created from figma.
 ## Completed:
+Due Dates
+[Due Dates ](../Pictures/duedate.png)
